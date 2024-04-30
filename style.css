@@ -1,36 +1,10 @@
-header * {
-    display: inline;
-}
-
-header li {
-    margin: 20px;
-}
-
-header li a {
-    color: black;
-    text-decoration: indianred 2px;
-}
-
 
 a:hover {
     background: lightblue;
 }
 
-header img {
-    height: 80px;
-    margin-left: 40px;
-    float: left;
-}
 
-header {
-    background-color: rgb(124, 170, 186);
-    position: fixed;
-    height: 80px;
-    width: 100%;
-    display: flex;
-    align-items: center;
 
-}
 
 body {
     height: 125vh;
@@ -38,17 +12,7 @@ body {
     background: cover;
     padding: 0;
     margin: 0;
-
 }
-
-nav ul {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 0;
-    padding-inline-start: 40px;
-
-}
-
 
 article h2 {
     font-size: 30;
